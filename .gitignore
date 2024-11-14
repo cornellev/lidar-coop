@@ -1,0 +1,6 @@
+.DS_Store
+ros1/scan.bag
+ros1/scan.json
+ros2/scan
+ros2/scan.json
+venv
